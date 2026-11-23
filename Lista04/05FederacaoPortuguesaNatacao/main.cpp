@@ -34,7 +34,7 @@ int main() {
     } else if (idade >= 18) {
         std::cout << std::endl << "Sénior Maiores de 18 anos";
     } else {
-        std::cout << std::endl << "SIdade inválida!";
+        std::cout << std::endl << "Idade inválida!";
     }
 
     return 0;
